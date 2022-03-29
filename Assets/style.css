@@ -1,0 +1,38 @@
+body{
+    background-color: #fffad2;
+    color: #5e5e5e;
+    font-family: helvetica;
+}
+header{
+    padding: 5px 0px 0px 10px;
+    color: #5e5e5e;
+}
+h1{
+    font-weight: 550;
+}
+h4{
+    color: #5e5e5e;
+}
+h5{
+    color: #5e5e5e;
+}
+.input-group-append{
+    background-color: royalblue;
+}
+#userInterface{
+    padding-top: 10px;
+}
+.form-group{
+    background-color: #fff59c;
+    padding: 10px 10px 10px 10px;
+}
+.card{
+    background-color: #fff59c;
+    padding: 10px 10px 10px 10px;
+}
+.currentCityCard{
+    color: #5e5e5e;
+}
+.currentIcon{
+    display: none;
+}
